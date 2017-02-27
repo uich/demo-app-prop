@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    generate-ddl: true
+    show-sql: true
+  datasource:
+    username: root
+    url: jdbc:mysql://localhost/testdb
